@@ -48,6 +48,7 @@ QUESTÃO 5:
 kernel =    [[-1/9, -1/9, -1/9],
              [-1/9, 17/9, -1/9],
              [-1/9, -1/9, -1/9]]
+             
 ![pythonQ5](test_images/pythonQ5.png)
 
 QUESTÃO 6:
