@@ -19,6 +19,7 @@ salve o resultado como uma imagem PNG e salve a imagem em seu repositório GitHu
 Entrada:
 
 ![peixe](test_images/bluegill.png)
+
 Saida:
 
 ![peixe_invertido](test_images/bluegill_invertido.png)
