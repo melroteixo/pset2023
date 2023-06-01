@@ -5,6 +5,7 @@ Feito por: Vinícius Teixeira Melo, da turma CC3M - UVV -
 Data de entrega: 02/06/2023
 
 --
+
 QUESTÃO 01: se você passar essa imagem pelo filtro de inversão, qual seria o
 output esperado? Justifique sua resposta.
     Eu esperava que a imagem retornasse com os valores de cor invertidos. 
